@@ -1,0 +1,14 @@
+.delete {
+    background-color: transparent;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+
+.delete:hover {
+    background-color: lightgrey;
+}
+
+span {
+    margin-left: 25%;
+    background-color: transparent;
+ }
